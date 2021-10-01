@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything security, code security, web application testing and security
 - 🌱 I’m currently learning security/code testing
 - 💞️ I’m looking to collaborate on security
-- 📫 How to reach me on here
+- 📫 How to reach me -via github
 
 <!---
 CodeCrack19/CodeCrack19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
